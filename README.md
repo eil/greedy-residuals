@@ -1,5 +1,5 @@
 # Watermarking Deep Neural Networks with Greedy Residuals
-The official implementation codes of greedy residuals for the paper [Watermarking Deep Neural Networks with Greedy Residuals](https://arxiv.org/abs/) (__ICML 2021__).
+The official implementation codes of greedy residuals for the paper [Watermarking Deep Neural Networks with Greedy Residuals](http://proceedings.mlr.press/v139/liu21x.html) (__ICML 2021__).
 
 In this work, we propose a novel DNN watermarking method called *greedy residuals*. Our essential insight is that by making greedy residuals depend on less information, a more robust watermarking method can be constructed (i.e., *less is more*). There are two main aspects of the understanding of *less* here: 
 1. we greedily select those fewer and more important model parameters for embedding, and the residuals are built upon the selected parameters; 
