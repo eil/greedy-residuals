@@ -1,0 +1,4 @@
+{
+  "m_layers": ["convbnrelu_1.conv.weight"],
+  "objective_size": [256, 253]
+}
