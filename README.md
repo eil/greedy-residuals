@@ -57,18 +57,12 @@ Please check the paper and source codes for more details.
 ## Citation
 If you find this work useful for your research, please cite
 ```
-@inproceedings{pmlr-v139-liu21x,
-  title = 	 {Watermarking Deep Neural Networks with Greedy Residuals},
-  author =       {Liu, Hanwen and Weng, Zhenyu and Zhu, Yuesheng},
-  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
-  pages = 	 {6978--6988},
-  year = 	 {2021},
-  editor = 	 {Meila, Marina and Zhang, Tong},
-  volume = 	 {139},
-  series = 	 {Proceedings of Machine Learning Research},
-  month = 	 {18--24 Jul},
-  publisher =    {PMLR},
-  pdf = 	 {http://proceedings.mlr.press/v139/liu21x/liu21x.pdf},
-  url = 	 {http://proceedings.mlr.press/v139/liu21x.html},
+@inproceedings{liu2021watermarking,
+  title={Watermarking Deep Neural Networks with Greedy Residuals},
+  author={Liu, Hanwen and Weng, Zhenyu and Zhu, Yuesheng},
+  booktitle={International Conference on Machine Learning},
+  pages={6978--6988},
+  year={2021},
+  organization={PMLR}
 }
 ```
